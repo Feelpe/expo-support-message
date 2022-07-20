@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "help-app",
+    "slug": "help-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
